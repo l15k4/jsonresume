@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Jakub Liska",
+    "label": "Programmer",
+    "picture": "https://avatars3.githubusercontent.com/u/518855?v=3&s=460",
+    "email": "liska.jakub@gmail.com",
+    "summary": "Recovered overengineer, pragmatically oriented with a passion for open source, searching for and learning technologies that allow me to be more productive and excited about at the same time. Currently I focus on client side development using Scala and Scala.js",
+    "location": {
+      "city": "Prague",
+      "countryCode": "CZ"
+    },
+    "profiles": [{
+      "network": "github personal",
+      "username": "l15k4",
+      "url": "https://github.com/l15k4"
+    }, {
+      "network": "github organization",
+      "username": "viagraphs",
+      "url": "https://github.com/viagraphs"
+    }, {
+      "network": "StackOverflow",
+      "username": "lisak",
+      "url": "http://stackoverflow.com/users/306488/lisak"
+    }]
+  },
+  "work": [{
+    "company": "OSS - Scalajs Rx IDb",
+    "website": "https://github.com/viagraphs/scalajs-rx-idb",
+    "summary": "IndexedDB wrapper based on Rx principles",
+    "highlights": ["scala.js, Monifu, uPickle, uTest"]
+  }, {
+    "company": "OSS - Scalajs Gremlin Client",
+    "website": "https://github.com/viagraphs/scalajs-gremlin-client",
+    "summary": "Gremlin Server client based on Rx principles",
+    "highlights": ["scala.js, reactive-websocket, Monifu, uPickle, uTest"]
+  }, {
+    "company": "OSS - Reactive Websocket",
+    "website": "https://github.com/viagraphs/reactive-websocket",
+    "summary": "Super light websocket server and browser client based on Rx principles",
+    "highlights": ["scala.js, scala, java-websocket, Monifu, uPickle, uTest"]
+  }, {
+    "company": "OSS - Postfix Deliverability Analytics",
+    "website": "https://github.com/FgForrest/Postfix-Deliverability-Analytics",
+    "summary": "Postfix log processing, feedback mining tool for mass mail analytics",
+    "highlights": ["scala, akka, MapDB"]
+  }, {
+    "company": "OSS - other projects",
+    "highlights": ["Liferay plugins and hooks", "Google api clients", "Modeshape java client", "Scala.js keyboard polyfill", "Scala.js javascript bindings"]
+  }, {
+    "startDate": "2011-12-01",
+    "endDate": "2014-12-01",
+    "position": "Senior application developer",
+    "company": "FG Forrest a.s.",
+    "website": "http://www.fg.cz",
+    "summary": "One of the core developers of a corporate intranet portal and web Content Management System Edee. Mass Mailing system development was my secondary specialization.",
+    "highlights": ["Java & Scala, Spring, Akka, Mysql, MapDB, ..."]
+  }, {
+    "startDate": "2010-02-01",
+    "endDate": "2011-12-01",
+    "position": "Startup founder",
+    "company": "Brokerage Portal",
+    "website": "http://goo.gl/gMTpSQ",
+    "summary": "Startup project based on my Diploma Thesis - Brokerage Portal (hibernated at the expense of buying an apartment, never finished)",
+    "highlights": ["Java, Liferay Portal"]
+  }, {
+    "startDate": "2009-07-01",
+    "endDate": "2010-02-01",
+    "position": "Application developer",
+    "company": "KOMIX s.r.o.",
+    "website": "http://www.komix.cz",
+    "summary": "Software integration of Schengen Information System with Czech Ministry of the interior",
+    "highlights": ["Mission critical piece of software", "JavaEE, Spring framework"]
+  }],
+  "education": [{
+    "institution": "Czech University of Life Sciences",
+    "studyType": "Master’s degree",
+    "area": "Informatics",
+    "startDate": "2005-09-01",
+    "endDate": "2010-06-30"
+  },{
+    "institution": "Waterford Institute of Technology",
+    "studyType": "Master studies",
+    "area": "SW Development & Applied Computing",
+    "startDate": "2008-09-01",
+    "endDate": "2009-06-30"
+  }],
+  "skills": [{
+    "name": "Frontend",
+    "keywords": ["javascript", "Scala.js", "d3", "IndexedDB"]
+  }, {
+    "name": "Full stack",
+    "keywords": ["uTest", "uPickle", "Monifu", "Autowire", "Scalatags", "Scala.rx", "PhantomJS"]
+  }, {
+    "name": "Backend",
+    "keywords": ["Scala", "Java", "Groovy", "Bash", "Spring", "Akka", "RxScala", "TitanDB", "Tinkerpop3", "MapDB", "Netty", "Mysql"]
+  }, {
+    "name": "System",
+    "keywords": ["Linux", "Slackware", "Ubuntu", "Git"]
+  }, {
+    "name": "IDE",
+    "keywords": ["Intellij Idea"]
+  }, {
+    "name": "Paradigms",
+    "keywords": ["Functional and Reactive Programming"]
+  }],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": ["swimming", "jogging", "gym", "bike", "alpine climbing", "kickbox", "kayaking", "rollerblading"]
+    }
+  ]
+}
