@@ -24,6 +24,11 @@
     }]
   },
   "work": [{
+    "company": "OSS - Replayed",
+    "website": "http://viagraphs.github.io/replayed/index.html",
+    "summary": "A tool for writing and managing markdown documents",
+    "highlights": ["scala.js, Monifu, ScalaTags, uPickle, uTest, bootstrap"]
+  }, {
     "company": "OSS - Scalajs Rx IDb",
     "website": "https://github.com/viagraphs/scalajs-rx-idb",
     "summary": "IndexedDB wrapper based on Rx principles",
@@ -112,7 +117,7 @@
   "interests": [
     {
       "name": "Sport",
-      "keywords": ["swimming", "jogging", "gym", "bike", "alpine climbing", "kickbox", "kayaking", "rollerblading"]
+      "keywords": ["swimming", "jogging", "bike", "alpine climbing", "kickbox", "kayaking", "skating"]
     }
   ]
 }
