@@ -30,32 +30,32 @@
   "work": [{
     "company": "OSS - Replayed",
     "website": "http://viagraphs.github.io/replayed/index.html",
-    "summary": "A tool for writing and managing markdown documents",
+    "summary": "A tool for writing and managing markdown documents - becoming collaboration/specification/documentation app for PM",
     "highlights": ["scala.js, Monifu, ScalaTags, uPickle, uTest, bootstrap"]
   }, {
     "company": "OSS - Postfix Deliverability Analytics",
     "website": "https://github.com/FgForrest/Postfix-Deliverability-Analytics",
-    "summary": "Postfix log processing, feedback mining tool for mass mail analytics",
+    "summary": "Postfix Mass Mail log processing tool, mining reasons of bounced messages for newsletter analytics",
     "highlights": ["scala, akka, MapDB"]
   }, {
     "company": "OSS - Scalajs Rx IDb",
     "website": "https://github.com/viagraphs/scalajs-rx-idb",
-    "summary": "IndexedDB wrapper based on Rx principles",
+    "summary": "DBMS for IndexedDB engine, based on Rx principles (type safety, resilience, backpressure, user friendly (reduces all Idb CRUD features to 4 API methods)",
     "highlights": ["scala.js, Monifu, uPickle, uTest"]
   }, {
     "company": "OSS - Scalajs Gremlin Client",
     "website": "https://github.com/viagraphs/scalajs-gremlin-client",
-    "summary": "Gremlin Server client based on Rx principles",
+    "summary": "Gremlin-Server client with ad-hoc extensible, reactive, typeclass based API allowing for using turing complete graph traversal language gremlin to query graph databases from browser",
     "highlights": ["scala.js, reactive-websocket, Monifu, uPickle, uTest"]
   }, {
     "company": "OSS - Reactive Websocket",
     "website": "https://github.com/viagraphs/reactive-websocket",
-    "summary": "Super light websocket server and browser client based on Rx principles",
+    "summary": "Very light websocket server and browser client based on Rx principles",
     "highlights": ["scala.js, scala, java-websocket, Monifu, uPickle, uTest"]
   }, {
     "company": "OSS - Scala.js keyboard polyfill",
     "website": "https://github.com/viagraphs/scalajs-keyboard-polyfill",
-    "summary": "Improves keyboard event handling experience in hostile browser environment",
+    "summary": "Improves keyboard event handling experience in hostile browser environment and allows for avoiding onpress events that are cross-browser incompatible and soon to be deprecated",
     "highlights": ["scala.js"]
   }, {
     "company": "OSS - other projects",
@@ -72,10 +72,9 @@
     "startDate": "2010-02-01",
     "endDate": "2011-12-01",
     "position": "Startup founder",
-    "company": "Brokerage Portal",
-    "website": "http://goo.gl/gMTpSQ",
-    "summary": "Startup project based on my Diploma Thesis - Brokerage Portal (hibernated at the expense of buying an apartment, never finished)",
-    "highlights": ["Java, Liferay Portal"]
+    "company": "System for language translation",
+    "summary": "Joins demand (people, companies) with supply (professional translators) (hibernated at the expense of buying an apartment, never finished)",
+    "highlights": ["Java"]
   }, {
     "startDate": "2009-07-01",
     "endDate": "2010-02-01",
