@@ -10,13 +10,17 @@
       "countryCode": "CZ"
     },
     "profiles": [{
+      "network": "github organization",
+      "username": "viagraphs",
+      "url": "https://github.com/viagraphs"
+    }, {
       "network": "github personal",
       "username": "l15k4",
       "url": "https://github.com/l15k4"
     }, {
       "network": "github organization",
-      "username": "viagraphs",
-      "url": "https://github.com/viagraphs"
+      "username": "FgForrest",
+      "url": "https://github.com/FgForrest"
     }, {
       "network": "StackOverflow",
       "username": "lisak",
@@ -28,6 +32,11 @@
     "website": "http://viagraphs.github.io/replayed/index.html",
     "summary": "A tool for writing and managing markdown documents",
     "highlights": ["scala.js, Monifu, ScalaTags, uPickle, uTest, bootstrap"]
+  }, {
+    "company": "OSS - Postfix Deliverability Analytics",
+    "website": "https://github.com/FgForrest/Postfix-Deliverability-Analytics",
+    "summary": "Postfix log processing, feedback mining tool for mass mail analytics",
+    "highlights": ["scala, akka, MapDB"]
   }, {
     "company": "OSS - Scalajs Rx IDb",
     "website": "https://github.com/viagraphs/scalajs-rx-idb",
@@ -44,16 +53,16 @@
     "summary": "Super light websocket server and browser client based on Rx principles",
     "highlights": ["scala.js, scala, java-websocket, Monifu, uPickle, uTest"]
   }, {
-    "company": "OSS - Postfix Deliverability Analytics",
-    "website": "https://github.com/FgForrest/Postfix-Deliverability-Analytics",
-    "summary": "Postfix log processing, feedback mining tool for mass mail analytics",
-    "highlights": ["scala, akka, MapDB"]
+    "company": "OSS - Scala.js keyboard polyfill",
+    "website": "https://github.com/viagraphs/scalajs-keyboard-polyfill",
+    "summary": "Improves keyboard event handling experience in hostile browser environment",
+    "highlights": ["scala.js"]
   }, {
     "company": "OSS - other projects",
-    "highlights": ["Liferay plugins and hooks", "Google api clients", "Modeshape java client", "Scala.js keyboard polyfill", "Scala.js javascript bindings"]
+    "highlights": ["Liferay plugins and hooks", "Google api clients", "Modeshape java client", "Scala.js javascript bindings"]
   }, {
     "startDate": "2011-12-01",
-    "endDate": "2014-12-01",
+    "endDate": "2014-05-01",
     "position": "Senior application developer",
     "company": "FG Forrest a.s.",
     "website": "http://www.fg.cz",
@@ -91,33 +100,36 @@
   }],
   "skills": [{
     "name": "Frontend",
-    "keywords": ["javascript", "Scala.js", "d3", "IndexedDB"]
+    "keywords": ["JS", "HTML", "CSS", "Scala.js", "d3", "IndexedDB"]
   }, {
-    "name": "Full stack",
-    "keywords": ["uTest", "uPickle", "Monifu", "Autowire", "Scalatags", "Scala.rx", "PhantomJS"]
+    "name": "Full stack (used both on server and client)",
+    "keywords": ["uTest", "uPickle", "Monifu", "Autowire", "Scalatags", "Scala.rx"]
   }, {
     "name": "Backend",
-    "keywords": ["Scala", "Java", "Groovy", "Bash", "Spring", "Akka", "RxScala", "TitanDB", "Tinkerpop3", "MapDB", "Netty", "Mysql"]
+    "keywords": ["Scala (Akka, RxScala, etc.)", "Java (J2EE, Spring, Liferay, Modeshape, Jackrabbit, too many)", "Node.js", "PhantomJS", "Groovy", "Bash", "Tinkerpop3", "TitanDB (Cassandra, Hadoop, BerkleyDB)", "Netty", "MapDB", "Mysql"]
   }, {
     "name": "System",
-    "keywords": ["Linux", "Slackware", "Ubuntu", "Git"]
+    "keywords": ["Linux (Slackware, Ubuntu)", "Git", "Subversion", "CVS"]
   }, {
     "name": "IDE",
-    "keywords": ["Intellij Idea"]
-  }, {
-    "name": "Paradigms",
-    "keywords": ["Functional and Reactive Programming"]
+    "keywords": ["Intellij Idea", "Eclipse"]
   }],
   "languages": [
     {
       "language": "English",
       "fluency": "Fluent"
+    }, {
+      "language": "German",
+      "fluency": "comical"
+    }, {
+      "language": "Portuguese",
+      "fluency": "comical"
     }
   ],
   "interests": [
     {
       "name": "Sport",
-      "keywords": ["swimming", "jogging", "bike", "alpine climbing", "kickbox", "kayaking", "skating"]
+      "keywords": ["swimming", "jogging", "biking", "alpine climbing", "kayaking", "skating"]
     }
   ]
 }
