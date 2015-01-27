@@ -105,7 +105,7 @@
     "keywords": ["uTest", "uPickle", "Monifu", "Autowire", "Scalatags", "Scala.rx"]
   }, {
     "name": "Backend",
-    "keywords": ["Scala (Akka, RxScala, etc.)", "Java (J2EE, Spring, Liferay, Modeshape, Jackrabbit, too many)", "Node.js", "PhantomJS", "Groovy", "Bash", "Tinkerpop3", "TitanDB (Cassandra, Hadoop, BerkleyDB)", "Netty", "MapDB", "Mysql"]
+    "keywords": ["Scala (Akka, RxScala, etc.)", "Java (J2EE, Spring, Liferay, Modeshape, Jackrabbit, too many)", "Node.js", "PhantomJS", "Groovy", "Bash", "Tinkerpop3", "TitanDB (Cassandra, HBase, BerkleyDB)", "Netty", "MapDB", "Mysql"]
   }, {
     "name": "System",
     "keywords": ["Linux (Slackware, Ubuntu)", "Git", "Subversion", "CVS"]
