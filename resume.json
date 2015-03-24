@@ -4,7 +4,7 @@
     "label": "Programmer",
     "picture": "https://avatars3.githubusercontent.com/u/518855?v=3&s=460",
     "email": "liska.jakub@gmail.com",
-    "summary": "Recovered overengineer, pragmatically oriented with a passion for open source, searching for and learning technologies that allow me to be more productive and excited about at the same time. Currently I focus on client side development using Scala and Scala.js but I have a long history of developing backend Java/Scala applications",
+    "summary": "Recovered overengineer, pragmatically oriented with a passion for open source, searching for and learning technologies that allow me to be more productive and excited about at the same time. I have a long history of developing software on backend (Java/Scala) and frontend (Scala.js)",
     "location": {
       "city": "Prague",
       "countryCode": "CZ"
@@ -61,6 +61,11 @@
     "company": "OSS - other projects",
     "highlights": ["Liferay plugins and hooks", "Google api clients", "Modeshape java client", "Scala.js javascript bindings"]
   }, {
+    "startDate": "2015-02-01",
+    "position": "Senior application developer",
+    "company": "Trendstream",
+    "website": "https://www.globalwebindex.net"
+  }, {
     "startDate": "2011-12-01",
     "endDate": "2014-05-01",
     "position": "Senior application developer",
@@ -105,7 +110,7 @@
     "keywords": ["uTest", "uPickle", "Monifu", "Autowire", "Scalatags", "Scala.rx"]
   }, {
     "name": "Backend",
-    "keywords": ["Scala (Akka, RxScala, etc.)", "Java (J2EE, Spring, Liferay, Modeshape, Jackrabbit, too many)", "Node.js", "PhantomJS", "Groovy", "Bash", "Tinkerpop3", "TitanDB (Cassandra, HBase, BerkleyDB)", "Netty", "MapDB", "Mysql"]
+    "keywords": ["Akka", "Akka Streams", "RxScala", "Spring", "Hibernate", "Liferay", "Modeshape", "Jackrabbit", "Node.js", "PhantomJS", "Groovy", "Bash", "Tinkerpop3", "TitanDB (Cassandra, HBase, BerkleyDB)", "ElasticSearch", "Netty", "MapDB", "Mysql"]
   }, {
     "name": "System",
     "keywords": ["Linux (Slackware, Ubuntu)", "Git", "Subversion", "CVS"]
